@@ -1,0 +1,12 @@
+com/queensenglish/MainActivity.java
+ com.queensenglish.MainActivity
+ com.queensenglish.MainActivity$1
+com/queensenglish/MainApplication.java
+ com.queensenglish.MainApplication
+ com.queensenglish.MainApplication$1
+com/queensenglish/BuildConfig.java
+ com.queensenglish.BuildConfig
+com/queensenglish/generated/BasePackageList.java
+ com.queensenglish.generated.BasePackageList
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

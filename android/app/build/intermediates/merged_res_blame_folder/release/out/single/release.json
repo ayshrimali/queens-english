@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_brands.ttf.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_brands.ttf"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/drawable_splashscreen_image.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/drawable/splashscreen_image.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_solid.ttf.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_solid.ttf"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_regular.ttf.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_regular.ttf"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/drawable_splashscreen.xml.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/drawable/splashscreen.xml"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/icslt001/Documents/Projects/queensenglish/expo/queensenglish/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

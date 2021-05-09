@@ -7,6 +7,11 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/ayshrimali/queens-english",
+    "android": {
+      "package": "com.ayshrimali.queensenglish"
+    }
   }
 }
